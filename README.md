@@ -6,7 +6,7 @@ This repository contains the backstory collection resource accompanying the foll
 
 Manuel Steiner, Damiano Spina, Falk Scholer, Lawrence Cavedon (2021). Crowdsourcing Backstories for Complex Task-Based Search. Proceedings of the 25th Australasian Document Computing Symposium. https://doi.org/10.1145/3503516.3503526
 
-To cite the paper, the following BibTeX entry can be used
+To cite the paper, the following BibTeX entry can be used.
 
 ```BibTeX
 @inproceedings{steiner2021crowdsourcing,
